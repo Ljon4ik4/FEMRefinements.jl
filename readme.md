@@ -1,5 +1,5 @@
  
-This code is the resuld of a project supervised by Dennis Ogiermann and Maximilian Köhler and carried out by Esther Koch and Leonid Ryvkin. 
+This code is the result of a project supervised by Dennis Ogiermann and Maximilian Köhler and carried out by Esther Koch and Leonid Ryvkin. 
 
 
 This projects implements an adapive grid subtype of the abstract type JuAFEM.AbstractGrid, making it possible to carry out certain Adapive Finite Element computations in the JuAFEM framework.
